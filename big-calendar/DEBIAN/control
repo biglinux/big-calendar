@@ -1,0 +1,11 @@
+Package: big-calendar
+Version: 1.0.0-1big1
+Depends: gnome-online-accounts, gnome-calendar, gnome-control-center
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:16
+Description: Gnome calendar with dependencies to BigLinux
+
+
